@@ -72,6 +72,11 @@ function createMagic() {
   );
 }
 ```
+#### Dark:
+<img width="1324" alt="Screenshot 2025-05-28 at 20 05 41" src="https://github.com/user-attachments/assets/88683b01-5140-4e25-9dd1-302031d3fdf5" />
+#### Darkest:
+<img width="1324" alt="Screenshot 2025-05-28 at 20 17 41" src="https://github.com/user-attachments/assets/fb5fc38a-955a-4b59-92c7-4f52b23380e4" />
+
 
 ### Python
 ```python
@@ -84,6 +89,11 @@ class TagangaVillage:
     def morning_catch(self):
         return f"Fresh fish from the {self.sea_name}"
 ```
+#### Dark:
+<img width="1324" alt="Screenshot 2025-05-28 at 20 05 33" src="https://github.com/user-attachments/assets/e6026982-e652-4038-ad58-bccbc050066c" />
+#### Darkest:
+<img width="1324" alt="Screenshot 2025-05-28 at 20 11 53" src="https://github.com/user-attachments/assets/0cea41d8-c374-4178-8b5c-54d6753b875e" />
+
 
 ## 🎯 Language Support
 
