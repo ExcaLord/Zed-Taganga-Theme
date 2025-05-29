@@ -132,10 +132,6 @@ Born from the love for my hometown, this theme welcomes contributions from devel
 
 Found a bug or have a suggestion? Please open an issue on GitHub. Your feedback helps make this theme as beautiful as a Taganga sunrise.
 
-## 📝 License
-
-This theme is open source and available under the [MIT License](LICENSE).
-
 ## 💖 Acknowledgments
 
 - **Taganga Village** - For being the most inspiring place on Earth
